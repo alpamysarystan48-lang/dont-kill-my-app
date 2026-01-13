@@ -1,6 +1,6 @@
 ---
 manufacturer: 
-    - oppo
+    Reno12f- oppo
 
 ---
 
